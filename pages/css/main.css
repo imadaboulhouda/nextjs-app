@@ -1,0 +1,10 @@
+
+.columns {
+    flex-wrap: wrap !important;
+  }
+.column {
+  flex:0 0 33% !important;
+}
+.navbarLogo {
+  height:87px !important;min-height:87px
+}
